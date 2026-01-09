@@ -1,0 +1,35 @@
+body {
+    background: gray ;
+}
+#xx {
+    margin-top: 100px;
+}
+#xx img{
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+}
+#botao {
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+#botao2 {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid Black ;
+    padding: 20px 90px;
+    
+}    
+    
+}
+button {
+    width: 180px;
+    height: 45px;
+    border-radius: 15px;
+    background: black;
+    color: white;
+    margin: 3px;
+    
+}
