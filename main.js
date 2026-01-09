@@ -46,6 +46,9 @@ function Cor() {
  } else if (estado === "quebrado") {
   alert("Luz quebrada, troque antes!")
   
+ } else if (estado === "trocado") {
+  alert("Você precisa ligar antes!")
+  
  } else {
  document.getElementById("apagada").src = azul;
  let aux = vermelho 
